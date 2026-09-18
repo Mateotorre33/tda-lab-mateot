@@ -1,15 +1,14 @@
+[← Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 18/09/2026-Mis aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Levo jugando al futbol desde los siete años,
+pase por diferentes equipos como Langreo, Alcázar, 
+ahora estoy en el Condal donde estoy muy contento
+porque me llevo muy bien con mis compañeros y entrenadores
+lo que más me gusta es ganar y si puede ser marcando gol
+entreno lunes, miércoles y viernes, los sábados partidos,
+también estoy siendo arbitro para ganar dinero y comprarme cosas.
 
-```
-### Título del tema — fecha
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
