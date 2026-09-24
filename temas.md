@@ -11,4 +11,4 @@ lo que más me gusta es ganar y si puede ser marcando gol
 entreno lunes, miércoles y viernes, los sábados partidos,
 también estoy siendo arbitro para ganar dinero y comprarme cosas.
 
-
+![Mi red](capturas/red.png)
