@@ -14,3 +14,17 @@ también estoy siendo arbitro para ganar dinero y comprarme cosas.
 ![Mi red](capturas/red.png)
 
 https://mateotorre33.github.io/tda-lab-mateot/
+
+### 01/09/2026-Mis aficiones
+
+Yo elegí a Messi porque es uno de los mayores referentes de mi 
+infancia aparte porque a mi me encanta el futbol, además
+es normal que lo premien ya que es el jugador con más trofeos en el mundo
+del futbol y por mucha gente el mejor jugador de la historia,
+por eso opino que esta totalmente merecido por todo lo que ha logrado 
+y conseguido en toda su carrera profesional futbolística.
+
+
+![Mi red](capturas/red.png)
+
+https://mateotorre33.github.io/tda-lab-mateot/
