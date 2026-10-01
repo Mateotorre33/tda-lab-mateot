@@ -13,7 +13,7 @@ también estoy siendo arbitro para ganar dinero y comprarme cosas.
 
 ![Mi red](capturas/red.png)
 
-https://mateotorre33.github.io/tda-lab-mateot/
+[(https://mateotorre33.github.io/tda-lab-mateot/)
 
 ### 01/09/2026-Mis aficiones
 
@@ -25,6 +25,6 @@ por eso opino que esta totalmente merecido por todo lo que ha logrado
 y conseguido en toda su carrera profesional futbolística.
 
 
-![Mi red](capturas/messi.jpg)
+![Mi red](capturas/LionelMessi.jpg)
 
-![premio princesa Messi](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?)
+[premio princesa Messi](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?)
