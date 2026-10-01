@@ -25,6 +25,6 @@ por eso opino que esta totalmente merecido por todo lo que ha logrado
 y conseguido en toda su carrera profesional futbolística.
 
 
-![Mi red](capturas/red.png)
+![Mi red](capturas/messi.jpg)
 
 ![premio princesa Messi](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?)
