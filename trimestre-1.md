@@ -1,5 +1,13 @@
 [← Volver al inicio](README.md)
 # Primer trimestre
+### 14/09 · Laboratorio en Github
+
+- **Aplicación:** GitHub
+- **Entregado:** Enlace a Github
+- **Qué hice:** Cree un repositorio a modo de blog en Github y sus web 
+
+---
+
 ### 14/09 · Mi primer TDA Lab
 
 - **Aplicación:** GitHub
@@ -7,4 +15,3 @@
 - **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
 
 ---
-
