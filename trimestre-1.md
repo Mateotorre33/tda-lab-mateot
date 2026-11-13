@@ -8,10 +8,26 @@
 
 ---
 
-### 14/09 · Mi primer TDA Lab
+### 21/09 · Nos conocemos 
 
-- **Aplicación:** GitHub
-- **Entregado:** la dirección de mi Lab
-- **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
+- **Aplicación:** Word - Bitmoji
+- **Entregado:** U0_NosConocemos-MateoT.docx
+- **Qué hice:** Crear un árbol de carpetas y un bitmoji
+
+---
+
+### 05/10 · Premios Princesa 
+
+- **Aplicación:** Github
+- **Entregado:** Enlace a la entrada de Github
+- **Qué hice:** Una entrada sobre los Premios Princesa
+
+---
+
+### 06/10 · Premios Princesa 
+
+- **Aplicación:** Github
+- **Entregado:** Enlace a la entrada de Github
+- **Qué hice:** Una entrada sobre Ada Lovelace
 
 ---
